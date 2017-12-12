@@ -1,0 +1,12 @@
+c:\users\carlos\Documents\Visual Studio 2015\Projects\ProyectoED\ProyectoED\bin\Debug\ProyectoED.exe.config
+c:\users\carlos\Documents\Visual Studio 2015\Projects\ProyectoED\ProyectoED\bin\Debug\ProyectoED.exe
+c:\users\carlos\Documents\Visual Studio 2015\Projects\ProyectoED\ProyectoED\bin\Debug\ProyectoED.pdb
+c:\users\carlos\Documents\Visual Studio 2015\Projects\ProyectoED\ProyectoED\obj\Debug\ProyectoED.csprojResolveAssemblyReference.cache
+c:\users\carlos\Documents\Visual Studio 2015\Projects\ProyectoED\ProyectoED\obj\Debug\ProyectoED.exe
+c:\users\carlos\Documents\Visual Studio 2015\Projects\ProyectoED\ProyectoED\obj\Debug\ProyectoED.pdb
+C:\Users\Octavio\Desktop\ProyectoED\ProyectoED\bin\Debug\ProyectoED.exe.config
+C:\Users\Octavio\Desktop\ProyectoED\ProyectoED\obj\Debug\ProyectoED.exe
+C:\Users\Octavio\Desktop\ProyectoED\ProyectoED\obj\Debug\ProyectoED.pdb
+C:\Users\Octavio\Desktop\ProyectoED\ProyectoED\obj\Debug\ProyectoED.csprojResolveAssemblyReference.cache
+C:\Users\Octavio\Desktop\ProyectoED\ProyectoED\bin\Debug\ProyectoED.exe
+C:\Users\Octavio\Desktop\ProyectoED\ProyectoED\bin\Debug\ProyectoED.pdb
